@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sun Zhaole / Site Title"
+title                    : "Sun Zhaole / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Sun Zhaole"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Sun Zhaole"
   pronouns         : # example: "she/her"  
-  bio              : "Sun Zhaole is a 4-th year PhD student in University of Edinburgh, studying on robotics"
+  bio              : "Sun Zhaole is a 4-th year PhD student studying  robotics"
   location         : "Edinburgh, UK"
   employer         : "University of Edinburgh"
   uri              : # URL
