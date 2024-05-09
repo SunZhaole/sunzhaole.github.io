@@ -3,7 +3,7 @@ title: "DexDLO: Learning Goal-Conditioned Dexterous Policy for Dynamic Manipulat
 collection: publications
 permalink: /publication/2024-DexDLO-4
 excerpt: 'Using a simulated hand to grab a tube/cable.'
-date: 2024
+date: 2024-05-01
 venue: 'ICRA 2024'
 paperurl: 'https://arxiv.org/abs/2312.15204'
 citation: 'Zhaole, Sun, Jihong Zhu, and Robert B. Fisher. "DexDLO: Learning Goal-Conditioned Dexterous Policy for Dynamic Manipulation of Deformable Linear Objects." arXiv preprint arXiv:2312.15204 (2023).'

@@ -3,7 +3,7 @@ title: "Learning pregrasp manipulation of objects from ungraspable poses"
 collection: publications
 permalink: /publication/2020-pregrasp-1
 excerpt: 'Using pregrasp manipulation to grasp large, flat objects laying on the table against a wall.'
-date: 2020
+date: 2020-05-01
 venue: 'ICRA 2020'
 paperurl: 'https://arxiv.org/abs/2002.06344'
 citation: 'Sun, Zhaole, et al. "Learning pregrasp manipulation of objects from ungraspable poses." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.'

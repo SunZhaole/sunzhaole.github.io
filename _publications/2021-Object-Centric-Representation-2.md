@@ -3,7 +3,7 @@ title: "Object-Centric Representation Learning with Generative Spatial-Temporal 
 collection: publications
 permalink: /publication/2021-Object-Centric-Representation-2
 excerpt: 'Disentalngling object-centric representations from a video.'
-date: 2021
+date: 2021-05-01
 venue: 'Advances in Neural Information Processing Systems (NeurIPS 2021)'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/hash/593906af0d138e69f49d251d3e7cbed0-Abstract.html'
 citation: 'Li, Nanbo, Muhammad Ahmed Raza, Wenbin Hu, Zhaole Sun, and Robert Fisher. "Object-centric representation learning with generative spatial-temporal factorization." Advances in Neural Information Processing Systems 34 (2021): 10772-10783.'

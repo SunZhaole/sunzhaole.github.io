@@ -3,7 +3,7 @@ title: "A Robust Deformable Linear Object Perception Pipeline in 3D: From Segmen
 collection: publications
 permalink: /publication/2023-DLO-perception-3
 excerpt: 'Detect cable-like objects in 3D from a RGBD image with occulusions.'
-date: 2023
+date: 2023-12-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10333979'
 citation: 'Zhaole, Sun, Hang Zhou, Li Nanbo, Longfei Chen, Jihong Zhu, and Robert B. Fisher. "A Robust Deformable Linear Object Perception Pipeline in 3D: From Segmentation to Reconstruction." IEEE Robotics and Automation Letters 9, no. 1 (2023): 843-850.'
