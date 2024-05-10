@@ -13,4 +13,5 @@ Abstract:
 
 3D perception of deformable linear objects (DLOs) is crucial for DLO manipulation. However, perceiving DLOs in 3D from a single RGBD image is challenging. Previous DLO perception methods fail to extract a decent 3D DLO model due to different textures, occlusions, sparse and false depth information. To address these problems and provide a more robust DLO perception initialization for downstream tasks like tracking and manipulation in complex scenarios, this letter proposes a 3D DLO perception pipeline to first segment a DLO in 2D images and post-process masks to eliminate false positive segmentation, reconstruct the DLO in 3D space to predict the occluded part of the DLO, and physically smooth the reconstructed DLO. By testing on a synthetic DLO dataset and further validating on a real-world dataset with seven different DLOs, we demonstrate that the proposed method is an effective and robust 3D perception pipeline solution with better performance on 2D DLO segmentation and 3D DLO reconstruction compared to State-of-the-Art algorithms.
 
-Demo Figures:
+Click for supplementary videos on YouTube:
+[![DLO_Perception](/images/pub_dloPerception_figure_0.jpg)](http://www.youtube.com/watch?v=nFoU-uAYUmg "DLO_Perception")
