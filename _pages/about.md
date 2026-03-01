@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4-th year PhD student in University of Edinburgh, studying on Robotics. My major interest is 
+I've been graduated in University of Edinburgh, and an incoming postdoc researcher in Hongkong University, studying on Robotics. My major interest is 
 
 1. Cable-like object perception and manipulation
 2. Dexterous manipulation
